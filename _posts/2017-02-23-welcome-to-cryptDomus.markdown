@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to cryptDomus!"
+title:  "Welcome aboard cryptDomus!"
 date:   2017-02-23 19:52:55 +0000
 categories:
 ---
@@ -14,6 +14,6 @@ The interview went on and I remember having to stop and take a moment just to ma
 
 A few months later I found myself starting my first day of work as a cyber analyst with very little idea of what to expect from the next few months. Now six months in with a great deal of learning, most of the time the hard way I find myself settling into my role. 
 
-Enough about me for now! I'll be back with a post showing how I got to writing this first page and hosting it on Github. 
+Enough about me for now! I'll be back with a post showing how I got to writing this first page and hosting it on Github.
 
 ~CryptDomus  
